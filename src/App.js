@@ -5,7 +5,7 @@ import Card from './home/card'
 import Navbar from './home/navbar';
 import UseeffactAPI from './home/useeffactAPI';
 import Alluser from './home/alluser';
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom"
+// import { BrowserRouter as Router, Route, Routes } from "react-router-dom"
 const App = () => {
   return (
     <>
